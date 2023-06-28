@@ -1,70 +1,18 @@
-# Getting Started with Create React App
+**Widget Write-up: Weather, Stopwatch, and Todo List**
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Weather Widget:**
+The Weather Widget is an essential component in a planner app as it provides users with up-to-date weather information. Users can easily check the current weather conditions, temperature, and additional details like humidity, wind speed, and precipitation. This widget allows users to plan their day effectively by considering weather forecasts.
 
-## Available Scripts
+To use the Weather Widget, it automatically detects the user's location or allows manual input of a specific location. The widget fetches data from a weather API and displays the relevant information in a visually appealing format. Users can quickly glance at the widget to get an overview of the weather and plan their activities accordingly.
 
-In the project directory, you can run:
+**Stopwatch Widget:**
+The Stopwatch Widget is a valuable addition to the planner app, especially for users who need to track time accurately. Whether it's timing tasks, workouts, or projects, the Stopwatch Widget provides a reliable and convenient solution.
 
-### `npm start`
+To use the Stopwatch Widget, users can start, stop, and reset the stopwatch with simple buttons. The widget displays the elapsed time in milliseconds, allowing precise measurement. Users can utilize the stopwatch for time-sensitive activities, manage their time effectively, and improve productivity.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**Todo List Widget:**
+The Todo List Widget is a fundamental tool for organizing tasks and ensuring productivity. It allows users to create a list of tasks, mark them as completed, and keep track of pending and completed items.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+To use the Todo List Widget, users can enter tasks into the input field and click the "Add" button to add them to the list. Each task appears with options to mark it as complete or delete it. The widget conveniently separates pending and completed tasks, enabling users to focus on what needs to be done. Users can easily manage their tasks, track progress, and prioritize their workflow effectively.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+These three custom-made widgets, Weather, Stopwatch, and Todo List, enhance the planner app's functionality and provide users with valuable tools for better planning, time management, and task organization.
