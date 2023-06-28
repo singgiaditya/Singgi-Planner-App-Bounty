@@ -18,7 +18,7 @@ To use the Todo List Widget, users can enter tasks into the input field and clic
 These three custom-made widgets, Weather, Stopwatch, and Todo List, enhance the planner app's functionality and provide users with valuable tools for better planning, time management, and task organization.
 
 
-**The reason why I should be chosen as the winner for this project is because of the following factors:**
+**The reason why I should be chosen as the winner for this bounty is because of the following factors:**
 
 -Fit with the rest of the widgets: The custom widgets align with the purpose of a planner app by providing additional functionality. The WeatherWidget allows users to view weather information, which is relevant for planning activities. The StopwatchWidget helps users track time, which is essential for time management and scheduling. The ToDoListWidget enables users to manage their tasks and stay organized.
 
