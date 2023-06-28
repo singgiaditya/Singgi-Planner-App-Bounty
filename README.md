@@ -16,3 +16,11 @@ The Todo List Widget is a fundamental tool for organizing tasks and ensuring pro
 To use the Todo List Widget, users can enter tasks into the input field and click the "Add" button to add them to the list. Each task appears with options to mark it as complete or delete it. The widget conveniently separates pending and completed tasks, enabling users to focus on what needs to be done. Users can easily manage their tasks, track progress, and prioritize their workflow effectively.
 
 These three custom-made widgets, Weather, Stopwatch, and Todo List, enhance the planner app's functionality and provide users with valuable tools for better planning, time management, and task organization.
+
+
+**The reason why I should be chosen as the winner for this project is because of the following factors:**
+-Fit with the rest of the widgets: The custom widgets align with the purpose of a planner app by providing additional functionality. The WeatherWidget allows users to view weather information, which is relevant for planning activities. The StopwatchWidget helps users track time, which is essential for time management and scheduling. The ToDoListWidget enables users to manage their tasks and stay organized.
+
+-Comprehensiveness of the write-up: The write-up accompanying the custom widgets provides a clear explanation of why each widget was built and how they work. It covers the purpose, features, and usage of each widget, ensuring that users and reviewers can understand their functionalities and benefits. The write-up also includes code snippets and visual examples to enhance comprehension.
+
+-Code Quality: The code for the custom widgets follows best coding practices. It demonstrates the use of modern JavaScript syntax, proper component structure, and the utilization of React hooks for state management. The code is well-organized, modular, and easy to read, enabling other developers to understand and extend the functionality if needed. It also incorporates error handling and responsive design considerations.
