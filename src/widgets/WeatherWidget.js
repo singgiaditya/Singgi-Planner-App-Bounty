@@ -7,7 +7,7 @@ export default function WeatherWidget() {
 
   const fetchWeatherData = async (query) => {
     try {
-      const response = await fetch(`http://api.weatherapi.com/v1/forecast.json?key=112f0fa2b3f042888d3150153232706&q=${query}`);
+      const response = await fetch(`https://api.weatherapi.com/v1/forecast.json?key=112f0fa2b3f042888d3150153232706&q=${query}`);
       const data = await response.json();
       if (data.error) {
         setError(true);
